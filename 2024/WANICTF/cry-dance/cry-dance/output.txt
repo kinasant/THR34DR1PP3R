@@ -1,2 +1,0 @@
-username = 'gureisya'
-ciphertext = '061ff06da6fbf8efcd2ca0c1d3b236aede3f5d4b6e8ea24179'
