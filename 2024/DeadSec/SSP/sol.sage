@@ -19,7 +19,6 @@ def solve(arr,s):
             if row[-1] == 0:
                 subset = [i for i, x in enumerate(row[:-1]) if x+1/2==1]
                 return subset
-r.close()
 r = remote("35.224.11.111",32054)
 r.sendline("0")
 r.recv()
